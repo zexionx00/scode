@@ -1,4 +1,4 @@
-# xcode
+# scode
 XOR Shellcode
 
 A very minimal C program to XOR a shellcode with random key.
