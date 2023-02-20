@@ -1,4 +1,4 @@
-// gcc -g -s -O0 -Wl,-z,relro,-z,now -fstack-protector-all main.c -o xcode
+// gcc -g -s -O0 -Wl,-z,relro,-z,now -fstack-protector-all main.c -o scode
 
 #include <stdio.h>
 #include <stdlib.h>
